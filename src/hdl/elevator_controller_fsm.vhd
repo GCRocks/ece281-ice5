@@ -10,9 +10,9 @@
 --| 
 --| ---------------------------------------------------------------------------
 --|
---| FILENAME      : MooreElevatorController.vhd
---| AUTHOR(S)     : Capt Phillip Warner, Capt Dan Johnson, Capt Brian Yarbrough, ***YourName***
---| CREATED       : 03/2018 Last Modified on 06/24/2020
+--| FILENAME      : elevator_controller_fsm.vhd
+--| AUTHOR(S)     : Gia Checo Roques
+--| CREATED       : 03/2018 Last Modified on 04/05/2020
 --| DESCRIPTION   : This file implements the ICE5 Basic elevator controller (Moore Machine)
 --|
 --|  The system is specified as follows:

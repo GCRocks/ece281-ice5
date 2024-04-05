@@ -10,9 +10,9 @@
 --| 
 --| ---------------------------------------------------------------------------
 --|
---| FILENAME      : MooreElevatorController_tb.vhd (TEST BENCH)
---| AUTHOR(S)     : Capt Phillip Warner, Capt Dan Johnson, **Your Name Here**
---| CREATED       : 03/2017 Last modified on 06/24/2020
+--| FILENAME      : elevator_controller_fsm_tb.vhd (TEST BENCH)
+--| AUTHOR(S)     : Gia Checo Roques
+--| CREATED       : 03/2017 Last modified on 04/05/2024
 --| DESCRIPTION   : This file tests the Moore elevator controller module
 --|
 --| DOCUMENTATION : None
