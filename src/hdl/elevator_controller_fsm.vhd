@@ -125,7 +125,7 @@ begin
         if (rising_edge(i_clk)) then
             if i_reset='1' then
                 f_Q <= s_floor2;
-            elsif i_stop='0' then
+            elsif i_stop='1' then
                 f_Q <= f_Q;
             else 
                 f_Q <= f_Q_next;
